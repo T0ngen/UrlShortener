@@ -1,0 +1,12 @@
+создал вирутальное окружение данной командой  export CONFIG_PATH=<путь до config.yaml/json
+
+
+
+
+body post zapros 
+{
+  "url": "https://example.com",
+  "alias": "custom_alias"
+}
+
+логин и пароль в auth вставялется
