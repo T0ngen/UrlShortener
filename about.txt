@@ -10,3 +10,10 @@ body post zapros
 }
 
 логин и пароль в auth вставялется
+
+
+qwerty123
+
+
+
+"Authorization" и api в заголовок для аунтификации
